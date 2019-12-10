@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kaustubh Kulkarni"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "MSTP Student at Mount Sinai/Daniela Schiller Lab/Xiaosi Gu Lab"
+  location         : "NYC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kaustubh+kulkarni"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8puBhl0AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
