@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaustubh Kulkarni"
 title_separator          : "-"
 name                     : &name "Kaustubh Kulkarni"
-description              : &description "Graduate Student at Mount Sinai"
+description              : &description "MD/PhD Student at Mount Sinai"
 url                      : https://kulkarnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kulkarnik.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &kulkarni1027
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kaustubh+kulkarni"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8puBhl0AAAAJ"
-  email            :
+  email            : "kaustubh.kulkarni@icahn.mssm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
