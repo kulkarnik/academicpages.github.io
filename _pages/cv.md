@@ -49,7 +49,7 @@ Structural Bioinformatics Laboratory | Principal Investigator: Gaetano Montelion
 Skills
 ======
 Data Collection/Experimental Design
-----------------------------------
+------------
 * Collection of structural and functional MRI data for three protocols from cohorts of
 healthy college-aged young adults and aging populations
 * Collection of EEG/neurophysiological data from healthy college-aged cohort
@@ -59,7 +59,7 @@ determine mechanisms of cognitive problem solving
 protein design, production, purification and NMR data acquisition
 
 Data Analysis
----------------
+-------------
 * Latent state identification in experimenter-designed and naturalistic paradigms
   * Discovery of latent structure in neural activity and connectivity in verbal free recall of traumatic memories in PTSD
   * Recovery of task structure and characterization of latent state dynamics of cue-elicited drug craving in marijuana users
@@ -86,19 +86,19 @@ diagnoses and action plans for clinical cases
 
 Teaching
 =========
-**Icahn School of Medicine at Mount Sinai** (New York, NY)\
-Brain and Behavior - MD Course\
-*Teaching Assistant* (Fall 2019)\
-\
-**Rutgers University - New Brunswick** (New Brunswick, NJ)\
-Introduction to Sciences for First Years\
-*Course Instructor* (Fall 2013 – Spring 2014)\
-\
-**Rutgers University - New Brunswick** (New Brunswick, NJ)\
-*Teaching Assistant for Chemistry* (Fall 2014 – Spring 2015)\
-\
-**Rutgers University - New Brunswick** (New Brunswick, NJ)\
-*Tutor for Organic Chemistry* (Spring 2013 – Spring 2015)\
+**Icahn School of Medicine at Mount Sinai** (New York, NY)<br>
+Brain and Behavior - MD Course<br>
+*Teaching Assistant* (Fall 2019)<br>
+<br>
+**Rutgers University - New Brunswick** (New Brunswick, NJ)<br>
+Introduction to Sciences for First Years<br>
+*Course Instructor* (Fall 2013 – Spring 2014)<br>
+<br>
+**Rutgers University - New Brunswick** (New Brunswick, NJ)<br>
+*Teaching Assistant for Chemistry* (Fall 2014 – Spring 2015)<br>
+<br>
+**Rutgers University - New Brunswick** (New Brunswick, NJ)<br>
+*Tutor for Organic Chemistry* (Spring 2013 – Spring 2015)<br>
 
 Publications
 ======
