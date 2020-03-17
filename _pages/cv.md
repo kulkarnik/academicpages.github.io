@@ -80,7 +80,7 @@ Patient Interaction
   * Attended a weekly clinical training course through the medical school involving medical interviewing, interpersonal communication, and physical examination skills while rounding on inpatient wards and outpatient sites
   * Developed clinical reasoning and critical thinking skills by formulating differential
 diagnoses and action plans for clinical cases
-* Emergency Medical Technician​ - Princeton First Aid and Rescue Squad
+* Emergency Medical Technician - Princeton First Aid and Rescue Squad
   * Trained as an emergency medical responder for medical and traumatic issues in the Princeton area
   * Developed skills for patient history taking, emergency medical care, CPR
 
