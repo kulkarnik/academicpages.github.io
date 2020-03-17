@@ -48,6 +48,7 @@ Structural Bioinformatics Laboratory | Principal Investigator: Gaetano Montelion
 
 Skills
 ======
+
 Data Collection/Experimental Design
 ------------
 * Collection of structural and functional MRI data for three protocols from cohorts of
