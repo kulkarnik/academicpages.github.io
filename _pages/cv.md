@@ -11,40 +11,40 @@ redirect_from:
 
 Education
 ========
-**Icahn School of Medicine at Mount Sinai** (New York, NY)
-MD/PhD Student in Neuroscience (Summer 2017-present)
-Graduate School of Biomedical Sciences
-Advisor: Daniela Schiller, Ph.D., Xiaosi Gu, Ph.D.
+**Icahn School of Medicine at Mount Sinai** (New York, NY)<br>
+MD/PhD Student in Neuroscience (Summer 2017-present)<br>
+Graduate School of Biomedical Sciences<br>
+Advisor: Daniela Schiller, Ph.D., Xiaosi Gu, Ph.D.<br>
 
-**Rutgers University, New Brunswick** (New Brunswick, NJ)
-BA in Cell Biology and Neuroscience (Fall 2011 – Spring 2015)
-Minor in Computer Science and Philosophy
-Magna Cum Laude – GPA 3.76/4
-Structural Bioinformatics Laboratory | Principal Investigator: Gaetano Montelione, Ph.D.
+**Rutgers University, New Brunswick** (New Brunswick, NJ)<br>
+BA in Cell Biology and Neuroscience (Fall 2011 – Spring 2015)<br>
+Minor in Computer Science and Philosophy<br>
+Magna Cum Laude – GPA 3.76/4<br>
+Structural Bioinformatics Laboratory | Principal Investigator: Gaetano Montelione, Ph.D.<br>
 
 Research experience
 ===============
-**Icahn School of Medicine at Mount Sinai** (New York, NY)\
-Computational Psychiatry Unit | Principal Investigator: Xiaosi Gu, Ph.D.\
-*Graduate Student* (July 2019 – Present)\
-\
-**Icahn School of Medicine at Mount Sinai** (New York, NY)\
-Laboratory for Affective Neuroscience | Principal Investigator: Daniela Schiller, Ph.D.\
-*Graduate Student* (July 2019 – Present)\
-*Graduate Rotation Student* (July 2018 – August 2018)\
-\
-**Icahn School of Medicine at Mount Sinai** (New York, NY)\
-Center for Advanced Circuit Therapeutics | Principal Investigator: Helen Mayberg, Ph.D.\
-Advisor: Ki-Sueng Choi, Ph.D.\
-*Graduate Rotation Student* (April 2018 – July 2018)\
-\
-**Center for Molecular and Behavioral Neuroscience - CMBN** (Newark, NJ)\
-Cole Neurocognition Laboratory | Principal Investigator: Michael Cole, Ph.D.\
-*Lab Manager and Research Assistant* (Summer 2015 – Summer 2017)\
-\
-**Center for Advanced Biotechnology and Medicine - CABM** (New Brunswick, NJ)\
-Structural Bioinformatics Laboratory | Principal Investigator: Gaetano Montelione\
-*Research Assistant* (December 2011 – June 2015)\
+**Icahn School of Medicine at Mount Sinai** (New York, NY)<br>
+Computational Psychiatry Unit | Principal Investigator: Xiaosi Gu, Ph.D.<br>
+*Graduate Student* (July 2019 – Present)<br>
+<br>
+**Icahn School of Medicine at Mount Sinai** (New York, NY)<br>
+Laboratory for Affective Neuroscience | Principal Investigator: Daniela Schiller, Ph.D.<br>
+*Graduate Student* (July 2019 – Present)<br>
+*Graduate Rotation Student* (July 2018 – August 2018)<br>
+<br>
+**Icahn School of Medicine at Mount Sinai** (New York, NY)<br>
+Center for Advanced Circuit Therapeutics | Principal Investigator: Helen Mayberg, Ph.D.<br>
+Advisor: Ki-Sueng Choi, Ph.D.<br>
+*Graduate Rotation Student* (April 2018 – July 2018)<br>
+<br>
+**Center for Molecular and Behavioral Neuroscience - CMBN** (Newark, NJ)<br>
+Cole Neurocognition Laboratory | Principal Investigator: Michael Cole, Ph.D.<br>
+*Lab Manager and Research Assistant* (Summer 2015 – Summer 2017)<br>
+<br>
+**Center for Advanced Biotechnology and Medicine - CABM** (New Brunswick, NJ)<br>
+Structural Bioinformatics Laboratory | Principal Investigator: Gaetano Montelione<br>
+*Research Assistant* (December 2011 – June 2015)<br>
 
 Skills
 ======
@@ -105,7 +105,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
