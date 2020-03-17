@@ -73,22 +73,36 @@ machine learning methods
 * Software platform for the identification of novel targets for NMR structure determination
   * BLAST/HMMER similarity scores in conjunction with dimensionality reduction algorithms to embed protein sets into 2D/3D visualization space
   * Developed a novel method for sequence-based structure determination and surface feature characterization based on the Rosetta platform
+  
+Patient Interaction
+---------------------
+* Art of Science and Medicine - MD Program: Icahn School of Medicine at Mount Sinai
+  * Attended a weekly clinical training course through the medical school involving medical interviewing, interpersonal communication, and physical examination skills while rounding on inpatient wards and outpatient sites
+  * Developed clinical reasoning and critical thinking skills by formulating differential
+diagnoses and action plans for clinical cases
+* Emergency Medical Technician​ - Princeton First Aid and Rescue Squad
+  * Trained as an emergency medical responder for medical and traumatic issues in the Princeton area
+  * Developed skills for patient history taking, emergency medical care, CPR
+
+Teaching
+=========
+**Icahn School of Medicine at Mount Sinai** (New York, NY)\
+Brain and Behavior - MD Course\
+*Teaching Assistant* (Fall 2019)\
+\
+**Rutgers University - New Brunswick** (New Brunswick, NJ)\
+Introduction to Sciences for First Years\
+*Course Instructor* (Fall 2013 – Spring 2014)\
+\
+**Rutgers University - New Brunswick** (New Brunswick, NJ)\
+*Teaching Assistant for Chemistry* (Fall 2014 – Spring 2015)\
+\
+**Rutgers University - New Brunswick** (New Brunswick, NJ)\
+*Tutor for Organic Chemistry* (Spring 2013 – Spring 2015)\
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
