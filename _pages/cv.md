@@ -75,6 +75,16 @@ machine learning methods
   * BLAST/HMMER similarity scores in conjunction with dimensionality reduction algorithms to embed protein sets into 2D/3D visualization space
   * Developed a novel method for sequence-based structure determination and surface feature characterization based on the Rosetta platform
   
+Software Experience
+---------------------
+* Experienced in neuroimaging softwares: AFNI, SPM, FSL, fmriprep, freesurfer
+* Experienced in programming languages: Python, bash, Matlab, R, Javascript
+* Experienced in data analysis techniques for fMRI: GLM, multivariate pattern analysis, graph theoretical analysis, hyperalignment, shared response model (SRM), dynamic causal modeling (DCM), latent state discovery
+* Developed a Python wrapper for fMRI data preprocessing around fmriprep preprocessing pipeline 
+* Created a novel clustering algorithm for visualization of protein-protein similarity by combining Principal Components Analysis (PCA) and t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+
+  
 Patient Interaction
 ---------------------
 * Art of Science and Medicine - MD Program: Icahn School of Medicine at Mount Sinai
