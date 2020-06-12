@@ -11,9 +11,9 @@ title                    : "Kaustubh Kulkarni"
 title_separator          : "-"
 name                     : &name "Kaustubh Kulkarni"
 description              : &description "MD/PhD Student at Mount Sinai"
-url                      : https://kulkarnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://krkulkarni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kulkarnik.github.io"
+repository               : "krkulkarni.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &kulkarnik_
+  username               : &krkulkarni_
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kulkarnik"
+  github           : "krkulkarni"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kulkarnik_"
+  twitter          : "krkulkarni_"
   vine             :
   weibo            :
   xing             :
