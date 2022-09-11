@@ -1,0 +1,19 @@
+---
+label: About Test
+hide_body: false
+fields:
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: boolean
+  name: author_profile
+  label: author_profile
+- type: list
+  name: redirect_from
+  label: redirect_from
